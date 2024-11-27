@@ -1,0 +1,18 @@
+    
+    
+
+    函数        https://www.runoob.com/python3/python3-function.html
+                    1.定义函数
+                    2.python 传递不可变对象实例
+                    3.python 传递可变对象实例
+                    4.参数
+                        1) 必须参数
+                        2) 关键字参数
+                        3) 默认参数
+                        4) 不定长参数
+                            a) 加了星号 * 的参数会以元组(tuple)的形式导入，存放所有未命名的变量参数
+                            b) 加了两个星号 ** 的参数会以字典的形式导入
+                    5.匿名函数 lambda : https://www.runoob.com/python3/python-lambda.html
+                    6.return
+                    7.强制位置参数       
+                                

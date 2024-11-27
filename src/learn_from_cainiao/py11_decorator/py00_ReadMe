@@ -1,0 +1,12 @@
+
+
+
+    装饰器:     https://www.runoob.com/python3/python-decorators.html
+                    1.基本用法
+                        应用场景: 
+                            日志记录
+                            性能分析
+                            权限控制
+                            缓存
+                    2.带参数的装饰器
+                    2.类装饰器

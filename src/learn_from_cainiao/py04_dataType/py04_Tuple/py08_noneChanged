@@ -1,0 +1,14 @@
+所谓元组的不可变指的是元组所指向的内存中的内容不可变。
+{
+    >>> tup = ('r', 'u', 'n', 'o', 'o', 'b')
+    >>> tup[0] = 'g'     # 不支持修改元素
+    Traceback (most recent call last):
+      File "<stdin>", line 1, in <module>
+    TypeError: 'tuple' object does not support item assignment
+    >>> id(tup)     # 查看内存地址
+    4440687904
+    >>> tup = (1,2,3)
+    >>> id(tup)
+    4441088800    # 内存地址不一样了
+}
+从以上实例可以看出，重新赋值的元组 tup，绑定到新的对象了，不是修改了原来的对象。

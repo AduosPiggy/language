@@ -1,0 +1,54 @@
+
+Data type:
+    type                notes
+    1 number            https://www.runoob.com/python3/python3-number.html
+                            1.数学函数
+                            2.随机数函数
+                            3.三角函数
+                            4.数学常量: pi e
+    2 String            https://www.runoob.com/python3/python3-string.html
+                            1.访问字符
+                            2.字符串更新
+                            3.转义字符; 注意:   \a  \r  \f  \yyy \xyy
+                            4.字符串运算符
+                            5.字符串格式化
+                            6.字符串 三引号
+                            7.f-string 字面量格式化字符串
+                            8.Unicode字符串
+                            9.python得字符串内建函数
+    3 List(列表)        https://www.runoob.com/python3/python3-list.html
+                            1.访问列表中的值
+                            2.更新列表        
+                            3.删除列表元素
+                            4.python列表脚本操作符
+                            5.python列表截取与拼接   
+                            6.嵌套列表
+                            7.列表比较 
+                            8.python列表函数&方法
+    4 Tuple(元组)       https://www.runoob.com/python3/python3-tuple.html    
+                            1.创建空元组  tup1 = ()
+                            2.访问元组 
+                            3."修改"元组
+                            4.删除元组
+                            5.元组运算符       
+                            6.元组索引, 截取
+                            7.元组内置函数
+                            8.不可变
+    5 Dictionary(字典)  https://www.runoob.com/python3/python3-dictionary.html
+                            1.创建空字典
+                            2.访问字典里的值
+                            3.修改字典
+                            4.删除字典元素
+                            5.字典键的特性:字典值可以是任何的 python 对象，既可以是标准的对象，也可以是用户定义的，但键不行
+                                1) 不允许同一个键出现两次。创建时如果同一个键被赋值两次，后一个值会被记住
+                                2) 键必须不可变，所以可以用数字，字符串或元组充当，而用列表就不行
+                            6.字典内置函数&方法    
+    6 Set(集合)         https://www.runoob.com/python3/python3-set.html
+                            1.添加元素      add      update
+                            2.移除元素      remove   discard     pop   
+                            3.计算元素个数  len(set)
+                            4.清空集合      set.clear
+                            5.判断元素是否在集合中  
+                            6.集合内置方法完整列表              
+                         
+
